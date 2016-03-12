@@ -1,0 +1,78 @@
+/**  Desktop md ****/
+@media (min-width: 992px) and (max-width: 1199px) {
+  .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, 
+.container>.navbar-collapse, .container>.navbar-header {
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 15px;
+}
+}
+
+
+
+
+
+
+
+
+/**  Tablet sm ****/
+@media (min-width: 768px) and (max-width: 991px) {
+  .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, 
+.container>.navbar-collapse, .container>.navbar-header {
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 15px;
+}
+}
+
+
+
+
+
+
+
+
+
+/**  Mobile  xs ****/
+@media (max-width: 767px) {
+  .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, 
+.container>.navbar-collapse, .container>.navbar-header {
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 15px;
+}
+}
+
+.navbar {
+    min-height: 50px;
+}
+
+#nav-list {
+    background-color: darkslategrey;
+}
+
+#content {
+    border-radius: 20px;
+    margin: 15px 15px 15px 15px;
+}
+
+h1 {
+    margin-top: 0px;
+}
+
+@media (min-width: 768px) {
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, 
+.container>.navbar-collapse, .container>.navbar-header {
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 15px;
+}
+}
+
+.icon-bar {
+    border: 1px solid #61122f;
+}
+
+.menu-el {
+    font-size: 1.2em;
+}
